@@ -1,0 +1,8 @@
+.env.local
+.env
+generated/
+__pycache__/
+*.pyc
+.idea/
+测试/
+tmp_gui_backup.txt
